@@ -1,0 +1,28 @@
+@font-face {font-family: "iconfont";
+  src: url('./iconfonts/iconfont.eot?t=1601711982105'); /* IE9 */
+  src: url('./iconfonts/iconfont.eot?t=1601711982105#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPwAAsAAAAACGAAAAOkAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDdIMmATYCJAMUCwwABCAFhG0HVBs+BxEVnAHJfiTGMSnrzJI30US7meCBr9Penz+Tncpe2WmXSYUFeSNOkNKlbgmAzbmmnoyKMEP5Fj36dksKg+zS9OF/Dpc2xee3LJe5FhX1AowmUJaNNWhZggVyon4OxFuXeRwCsCWQeETL1h17oqNijBOAmDhuzDD0lAK1Jl2gIzCULFURS9DQlRrlKrDY/734RKrQQUGTGCd1Hd1qJE0t4Zb20mQ1MVCWYRpPB3CrQALxgApieqlhIjIMxCOxVXqrNAVs0VFQxuqUasmwtLdaY86ORLbmPzyQqAgUEAaMVHsAmlJBFSzhNhkSLKmMMmEGZAgI2yOIAtyXCWyRVAecxZCEj9ldQSCdhUOom3Czx2NKnHed8dXWn41y2XnaR11zarCtae3Out3rzet21e5Y06/3qn073Hu6Ms9VbFfRd8Xavbu9BvRaGbGSIPpsvXP/+iFOdad91kSP3HMpdpXn6H3b43ZHiLmpu0wxo1bWrTd7jl5l9hqzet2uEffv937woM+9e73u3g1oMhXcnjh12Kr1u3d69Fq5Zscuz+ypHg43jQ5dHYw3/YctT8lyfL8oYNPDgIebAha9Hzpl0f2iW/8butSaXw840vhv0eCdHEpcsPBm+LmPq0rfHHa7UDuhU+WUbYv+31rAqqM3good7F2HP4oymivajHmuG6cXdoX4EcaTF8c2LT59zOj53cPoTR976sK+BRYe2R2QjY3yoDzA8A6AFtNARfTBoiXy3DnpcBezNNBpKrhLUFifsy6uy7mSpp292ygGwPpOXlcuA8hDynGwmpT/sowNnZWzZNM//De0dB7nOsQp/49upwLwZPsWBXarSaU94zcJUZj/k9myTFXZhlJT5WKbIRs1miYUKEqNLfAXLa48H0fk0ToVBDoeMSg0IQAkOuFIFRsPGnakgwGdIrAljjar7XBjOhKh2gCxVBAQOHMYFBw5CxJnriFV7DPQ8OQLGHAWEmzpLdy2tAMSKcLhJGgUB7B/CD0vZKn1EKTf0eXJSJLt494oKbihrZps+IYLyhgz0sd1qgQkPMOVnIbTxLAKR+y18qrrsa6p7E1Vz3NxoIWgURwA+wdCzwu51fWQ+/4dXZ6M1JRUKN8oKbQPtFQ0LZA3wdKq5Fp6p4/rUCV6FAnPwBU6nMwAA2v5oIi9VvgevvVITVWitoJqftH8jFsAW4ytNaEIKVShCQOOM4NZes+L+wVbV25j0qucN+T19TlsEueUuSgA') format('woff2'),
+  url('./iconfonts/iconfont.ttf?t=1601711982105') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('./iconfonts/iconfont.svg?t=1601711982105#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* .iconjiantou:before {
+  content: "\e64a";
+}
+
+.iconfanhui:before {
+  content: "\e624";
+}
+
+.iconsousuo:before {
+  content: "\e632";
+} */
+
